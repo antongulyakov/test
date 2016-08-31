@@ -1,7 +1,7 @@
-print("hello world")
-print("hello pip")
-print("hello people")
+print("hello world");
+print("hello pip");
+print("hello people");
 
 #######################
-print("hello pupok")
-print("wtf?")
+print("hello pupok");
+print("wtf?");
